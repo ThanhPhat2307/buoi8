@@ -1,0 +1,15 @@
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\bin\Debug\lab05.BUS.dll.config
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\bin\Debug\lab05.BUS.dll
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\bin\Debug\lab05.BUS.pdb
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\bin\Debug\EntityFramework.dll
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\bin\Debug\lab05.DAL.dll
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\bin\Debug\lab05.DAL.pdb
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\bin\Debug\lab05.DAL.dll.config
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\bin\Debug\EntityFramework.xml
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\obj\Debug\lab05.BUS.csproj.AssemblyReference.cache
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\obj\Debug\lab05.BUS.csproj.CoreCompileInputs.cache
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\obj\Debug\lab05.BUS.csproj.Up2Date
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\obj\Debug\lab05.BUS.dll
+D:\DoanThanhPhat_2280602288\lab05\lab05.BUS\obj\Debug\lab05.BUS.pdb
